@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Capitulo_2
 {
-    public class Produto
+    public class Produtox
     {
-        public Produto(string nome, double valor)
+        public Produtox(string nome, double valor)
         {
             Nome = nome;
             Valor = valor;
